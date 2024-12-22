@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ah4d-j
+- 👀 I’m interested in learning Java
+- 🌱 I’m currently learning Java and HTML
+- 💞️ I’m looking to collaborate on Educational activites and movements
+- 📫 How to reach me Ah4d.uni@gmail.com
